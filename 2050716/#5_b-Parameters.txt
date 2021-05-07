@@ -1,0 +1,3 @@
+FBoW F1 for random classifier on IMDB_train = 0.5015891457191735 
+FBoW F1 for random classifier on IMDB_test = 0.500420297375856 
+FBoW F1 for random classifier on IMDB_valid = 0.49829634258033745 

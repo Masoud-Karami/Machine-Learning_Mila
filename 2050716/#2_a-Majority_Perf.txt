@@ -1,0 +1,6 @@
+BBoW majority class for Yelp is 4. 
+ F1 for majority classifier on Yelp_train = 0.3525714285714286.
+BBoW majority class for Yelp is 4. 
+ F1 for majority classifier on Yelp_test = 0.351.
+BBoW majority class for Yelp is 4. 
+ F1 for majority classifier on Yelp_valid = 0.356.

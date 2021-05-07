@@ -1,0 +1,3 @@
+BBoW F1 for random classifier on Yelp_train = 0.18241916362346142 
+BBoW F1 for random classifier on Yelp_test = 0.18057797685118898 
+BBoW F1 for random classifier on Yelp_valid = 0.17749389657271505 

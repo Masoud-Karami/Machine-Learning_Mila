@@ -1,0 +1,12 @@
+NB_best alpha = 0.02
+[criterion, max_depth, max_features, min_samples_leaf, min_samples_split] = ['gini', 8, None, 0.2, 2]
+[C, loss] = [100.0, 'squared_hinge']
+ ####################################################################################################
+ NB_best_params are 0.02, 
+ tree_best_params are ['gini', 8, None, 0.2, 2], 
+ svm_best_params are [100.0, 'squared_hinge'] 
+ ####################################################################################################
+Optimal NB f1 for the (train, valid, test) = (0.8725333333333334, 0.8434, 0.83572),
+ Optimal Tree f1 for train, valid, test = (0.6439333333333334, 0.6393, 0.64708), 
+ Optimal SVM f1 for train, valid, test = (0.9467333333333332, 0.8795, 0.8746)
+ ####################################################################################################

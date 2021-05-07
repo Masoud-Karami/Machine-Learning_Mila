@@ -1,0 +1,6 @@
+#################################################################################################### 
+ NB_BBoW best values for the IMDB_train of IMDB dataset with optimal hyperparameters is 0.8725038766289896. 
+#################################################################################################### 
+ NB_BBoW best values for the IMDB_test of IMDB dataset with optimal hyperparameters is 0.835578653150356. 
+#################################################################################################### 
+ NB_BBoW best values for the IMDB_valid of IMDB dataset with optimal hyperparameters is 0.8433751342363114. 
