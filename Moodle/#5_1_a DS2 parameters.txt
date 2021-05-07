@@ -1,0 +1,10 @@
+DS2 other variables are 
+ 
+true_positives_2 = 210
+true_negatives_2 = 197
+false_positives_2 = 203
+false_negatives_2 = 190
+F_1_2 measure = 0.5166051660516606
+Accuracy_2 = 0.50875
+Precision_2 = 0.5084745762711864
+Recall_2 = 0.525
